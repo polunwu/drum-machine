@@ -1,7 +1,6 @@
 html, body, #root{
   width: 100vw;
   height: 100vh;
-  touch-action: manipulation;
 }
 #root{
   display: flex;
@@ -52,10 +51,10 @@ footer{
   }
   #display{
     font-size: 15px;
-    margin: 10px;
+    margin-top: 20px;
   }
   #pannel{
-    margin: 0px;
+    margin-top: 20px;
     border: 0px;
   }
   .drum-pad{
