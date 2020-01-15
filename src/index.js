@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import DrumMachine from './DrumMachine';
 import * as serviceWorker from './serviceWorker';
 
+window.scrollTo(0, 1);
 ReactDOM.render(<DrumMachine />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
