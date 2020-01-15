@@ -25,3 +25,4 @@ function openFullscreen() {
     elem.msRequestFullscreen();
   }
 }
+openFullscreen();
