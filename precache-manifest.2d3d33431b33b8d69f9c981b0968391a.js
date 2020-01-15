@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "923bd626105c12815be882686bf697e2",
+    "revision": "8bf8b4131433236a78d67e1cb4f6cf6b",
     "url": "/drum-machine/index.html"
   },
   {
